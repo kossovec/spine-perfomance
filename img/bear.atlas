@@ -1,0 +1,104 @@
+
+bear.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_H_S
+  rotate: false
+  xy: 699, 63
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+L_L_1
+  rotate: false
+  xy: 628, 69
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+L_L_2
+  rotate: false
+  xy: 255, 6
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+L_h
+  rotate: false
+  xy: 213, 35
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+R_H_T
+  rotate: false
+  xy: 290, 10
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+R_H_T_S
+  rotate: true
+  xy: 815, 90
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+R_L_1
+  rotate: true
+  xy: 759, 81
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+R_L_2
+  rotate: false
+  xy: 853, 90
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+R_h
+  rotate: false
+  xy: 530, 63
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+google
+  rotate: false
+  xy: 335, 42
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+guitar
+  rotate: false
+  xy: 117, 3
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 213, 8
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 445, 46
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
