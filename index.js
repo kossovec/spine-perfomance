@@ -21,7 +21,7 @@ function loadMultiAtlas() {
 		.add({name: 'fortuneteller', url: './img/fortuneteller.json'})
 		.add({name: 'bear', url: './img/bear.json'})
 		.add({name: 'train', url: './img/train.json'})
-		.load(createSpines)
+		.load()
 }
 
 function loadSingleAtlas() {
